@@ -3,7 +3,7 @@
 	//---- RELEASE VERSION ----//
         $version = "13.4";
         
-        $battleNet = "http://www.1sws.com/Intel/navcon-master/Nav/img/BattleLines/gateNetworkLowerBattleCurrent.png";
+        $battleNet = "http://www.1sws.com/Intel/BattleLines/gateNetworkLowerBattleCurrent.png";
         
         //TODO: use filter_input() on these
         $mobile = isset($_GET['mobile']);
